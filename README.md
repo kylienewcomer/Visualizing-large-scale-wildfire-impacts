@@ -11,4 +11,4 @@ Teaching Team:
 - **Instructor:** [Carmen Galaz García](https://github.com/carmengg)
 - **Co-Instructor:** [Annie Adams](https://github.com/annieradams) 
 
-Complete materials for the discussion sections and additional resources can be found on the [course website](https://meds-eds-220.github.io/MEDS-eds-220-course/).
+Complete materials for the homework and additional resources can be found on the [course website](https://meds-eds-220.github.io/MEDS-eds-220-course/).
