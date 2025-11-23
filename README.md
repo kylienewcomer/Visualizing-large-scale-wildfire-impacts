@@ -1,4 +1,6 @@
 # EDS 220 HW 4
+### Author: Kylie Newcomer
+#### Date: 11/22/25
 
 ## About
 In January 2025, the Los Angeles area experience two large scale wildfires that resulted in extreme damage. This project visualizes the aftermath and burn scars of the Palisades and Eaton fires with wavelength reflectance from satellite imagery and geospatial perimeter data. The `xarray` and `geopandas` packages were used to handle the raster and geographic data. 
