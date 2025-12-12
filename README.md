@@ -11,6 +11,7 @@ To identify the impacts of indivduals affected by the fires, environmental justi
 ## Repository structure
 ```
 ├── hwk4-task2-false-color-NEWCOMER.ipynb
+├── eji_analysis_fires.ipynb
 ├── README.md
 └── .gitignore
 │   ├──data
